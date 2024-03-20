@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>PortManagementSystem/title>
 </head>
  <style>
      
@@ -26,14 +26,14 @@
             border-radius: 20px;
             border: none;
             margin-bottom: 20px;
-            color: red;
+            color: white;
      } 
      .AirportData{
            border: 1px solid black; 
            width: 400px;
            height: 500px;
-           
-           color: red;
+           margin:auto;
+           color: white;
            border-radius: 40px;
            box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
            background-size:cover;
@@ -61,7 +61,6 @@
             text-transform: uppercase;
         }
         body{
-          justify-content:center;
            background-image: url('https://i0.wp.com/demishia.com/wp-content/uploads/2018/04/admin-login-background-images-8.jpg?ssl=1');
             background-repeat: no-repeat;
         }
