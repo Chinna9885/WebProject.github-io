@@ -64,7 +64,11 @@
            background-image: url('https://i0.wp.com/demishia.com/wp-content/uploads/2018/04/admin-login-background-images-8.jpg?ssl=1');
             background-repeat: no-repeat;
         }
-     
+      h2{
+            text-align: center;
+            text-shadow: 30px;
+            text-decoration-color: #CCD3CA;
+        }
  </style>
 <body>
 <div class="AirportData">
