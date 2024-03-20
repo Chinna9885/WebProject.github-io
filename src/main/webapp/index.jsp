@@ -87,7 +87,7 @@
 	 
   </form>
   </div>
-  <h1 style="color:red">${Response}</h1>
+  <h2 style="color:red">${Response}</h2>
 
 </body>
 </html>
